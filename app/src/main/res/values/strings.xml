@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Pdf Viewer</string>
+    <string name="button_name">open from storage</string>
+</resources>
